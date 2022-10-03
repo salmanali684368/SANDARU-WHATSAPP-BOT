@@ -19,7 +19,7 @@ global.owner = ['94764497078']
 global.premium = ['94764497078']
 global.sponsor = 'Tidak Ada Sponsor :)'
 global.packname = 'Sandaru'
-global.footer = 'XCoco Multi Device'
+global.footer = 'SANDARU Multi Device'
 global.author = 'WhatsApp'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.act = {
@@ -29,8 +29,8 @@ global.act = {
 		error:'Error :(',
 		success:'Success bang!',
 		repiar:'This Feature Maintace!',
-		botadm:'Jadiin gw admin dulu!',
-		admin:'Khusus admin woi!',
+		botadm:'BOT MUST Be Admin First!',
+		admin:'I am Not Admin!',
 		done:'Done!',
 		gc:'Only Group Allowed',
 		owner:'Only Owner Allowed'
