@@ -23,11 +23,11 @@ global.footer = 'SANDARU Multi Device'
 global.author = 'WhatsApp'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.act = {
-		wait: 'Please Wait. Processing Data...',
+		wait: '*Please Wait. Processing Data* 🔥',
 		den:'Sorry You Not Register',
-		proc:'Loading Please Wait..',
-		error:'Error :(',
-		success:'Success bang!',
+		proc:'*Loading Please Wait*..',
+		error:'*Error* ❌',
+		success:'Success band!',
 		repiar:'This Feature Maintace!',
 		botadm:'BOT MUST Be Admin First!',
 		admin:'I am Not Admin!',
