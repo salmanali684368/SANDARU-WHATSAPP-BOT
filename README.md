@@ -6,9 +6,7 @@
 
 </p>
 
-  <p align="center">
-
-<a href="#"><img title="Astro-MD" src="https://img.shields.io/badge/astro-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  
 
 </p>
 
@@ -16,7 +14,7 @@
 
 #### <p align="center">By SANDARU| © | Reserved  </br> 
 
-# SANDARU MD V1.0
+# SANDARU MD 
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
