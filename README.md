@@ -4,7 +4,7 @@
 
 <p align = center>   <img src="https://telegra.ph/file/71c859102f3625d06204b.jpg" alt="GIF" width="250" height="250"/> </p>
 
-<p align  = center> <a href="#"><img title="SANDRAU MD" src="https://telegra.ph/file/52dfb234f433ce1f5b6a6.jpg WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="SANDRAU MD" src="https://telegra.ph/file/71c859102f3625d06204b.jpg WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 ## QR Link 
 https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit
