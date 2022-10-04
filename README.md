@@ -12,7 +12,7 @@
 
 </div>
 
-#### <p align="center">By SANDARU| © | Reserved  </br> 
+#### <p align="center">By SANDARU 🌀  </br> 
 
 # SANDARU MD 
 #### TOTAL REPO VIEWS📍
