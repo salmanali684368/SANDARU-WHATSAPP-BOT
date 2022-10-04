@@ -1,26 +1,36 @@
-# SANDARU-WHATSAPP-BOT
+<div align="center">
 
-##                       SANDARU MD WHATSAPP BOT
+  <p align="center">
 
-<p align = center>   <img src="https://telegra.ph/file/71c859102f3625d06204b.jpg" alt="GIF" width="250" height="250"/> </p>
+<img src="https://telegra.ph/file/6995d328a9c88d8e15750.jpg" alt="GIF" width="300" height="270"/>
 
-<p align  = center> <a href="#"><img title="SANDRAU MD" src="https://telegra.ph/file/71c859102f3625d06204b.jpg WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+</p>
 
-## QR Link 
-https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit
-## Support Group 
+  <p align="center">
 
-https://chat.whatsapp.com/Fph5gVGPZuL9TDz9LCzEpv
+<a href="#"><img title="Astro-MD" src="https://img.shields.io/badge/astro-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
+</p>
 
+</div>
 
-## STEPS
-<br>
+#### <p align="center">By SANDARU| © | Reserved  </br> 
 
-1. Click [SCAN](https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+# SANDARU MD V1.0
+#### TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-2. You will get a long text that needs after Frist step (  fadhil.data.json)
+    
 
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+     
+  
+   
+   ```Thanks Fro using SANDARU MD```
+   
+# Support Group <a href="https://chat.whatsapp.com/CF1UzSe346d9oAMxupysGT"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-4. Click [FORK](https://github.com/Sandaruoo/SANDARU-WHATSAPP-BOT/fork)
+## Owner:
+* [`SANDRU NETHSARA`]
+
+## Thanks To
+* [`REY `]
