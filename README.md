@@ -18,7 +18,12 @@
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-    
+    [🔥] SANDARU MD New Features
+
+     > Support All Whatsapp ✅
+     > 𝗡𝗢 𝗕𝗮𝗻𝗻𝗲𝗱 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗔𝗰𝗰𝗼𝘂𝗻𝘁𝘀 ✅
+     > Songs , Video, Tiktok Download ✅
+     > Simple Whatsapp Bot ✅
 
      
   
