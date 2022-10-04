@@ -149,8 +149,8 @@ switch(command){
 			case 'stickergifwm':
 			case 'sgifwm': {
                 let [teks1, teks2] = text.split`|`
-                if (!teks1) return m.reply(`Kirim/reply image/video dengan caption ${prefix + command} teks1|teks2`)
-                if (!teks2) return m.reply(`Kirim/reply image/video dengan caption ${prefix + command} teks1|teks2`)
+                if (!teks1) return m.reply(`Send/reply image/video with caption ${prefix + command} teks1|teks2`)
+                if (!teks2) return m.reply(`Send/reply image/video with caption ${prefix + command} teks1|teks2`)
             	m.reply(act.proc)
                 if (/image/.test(mime)) {
                     let media = await conn.downloadMediaMessage(qmsg)
@@ -167,7 +167,7 @@ switch(command){
         	    }
         	    break
 			case 'toimage': case 'toimg': {
-                if (!/webp/.test(mime)) return m.reply(`Reply sticker dengan caption *${prefix + command}*`)
+                if (!/webp/.test(mime)) return m.reply(`Reply sticcaption *${prefix + command}*`)
                 let media = await conn.downloadAndSaveMediaMessage(qmsg)
                 let ran = await getRandom('.png')
                 exec(`ffmpeg -i ${media} ${ran}`, (err) => {
@@ -254,7 +254,7 @@ switch(command){
 			case 'tt':
 			    if (!text) return m.reply('masukkan link nya')
 				let p = await fdl.downloader.tiktok(q)
-				let nih = `*[ 👤 ] UPLOAD :* ${p.author}`
+				let nih = `*[ 🌀 ] UPLOAD :* ${p.author}`
 				let buttons = [
                     {buttonId: `tiktokmp3 ${text}`, buttonText: {displayText: 'AUDIO'}, type: 1}
                 ]
