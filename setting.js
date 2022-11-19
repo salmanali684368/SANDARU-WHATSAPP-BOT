@@ -15,8 +15,8 @@ global.smm = {
 }
 
 // Other
-global.owner = ['94764497078']
-global.premium = ['94764497078']
+global.owner = ['923231582002']
+global.premium = ['923231582002']
 global.sponsor = 'Tidak Ada Sponsor :)'
 global.packname = 'Sandaru'
 global.footer = 'SANDARU Multi Device'
